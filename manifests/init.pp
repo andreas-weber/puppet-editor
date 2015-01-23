@@ -12,7 +12,7 @@
 #   include aw_editor
 #
 #   class { 'aw_editor':
-#     'package' => 'nano'
+#     package => 'nano'
 #   }
 #
 # === Authors
